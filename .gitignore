@@ -1,0 +1,16 @@
+# Entornos
+env/
+venv/
+Proyecto_Visualizacion/
+
+# Python
+__pycache__/
+*.pyc
+
+# Dagster
+.dagster/
+
+# VSCode
+.vscode/
+
+.tmp_dagster_home_*

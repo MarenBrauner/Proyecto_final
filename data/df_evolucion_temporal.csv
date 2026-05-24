@@ -1,0 +1,163 @@
+año,municipio,renta_media_hogar
+2021,Adeje,31132.0
+2021,Agulo,29977.0
+2021,Alajeró,30406.0
+2021,Arafo,37092.666666666664
+2021,Arico,28109.833333333332
+2021,Arona,27071.029411764706
+2021,Barlovento,29572.0
+2021,Breña Alta,37490.25
+2021,Breña Baja,42323.0
+2021,Buenavista del Norte,28562.0
+2021,Candelaria,40442.117647058825
+2021,El Paso,35627.8
+2021,El Pinar de El Hierro,32307.0
+2021,El Rosario,49578.153846153844
+2021,El Sauzal,39480.333333333336
+2021,El Tanque,27713.0
+2021,Fasnia,32237.5
+2021,Frontera,33814.5
+2021,Fuencaliente de La Palma,26113.5
+2021,Garachico,32458.75
+2021,Garafía,20676.0
+2021,Granadilla de Abona,30650.12
+2021,Guía de Isora,29755.1
+2021,Güímar,33818.53333333333
+2021,Hermigua,31486.5
+2021,Icod de los Vinos,28849.11111111111
+2021,La Guancha,31560.333333333332
+2021,La Matanza de Acentejo,33716.8
+2021,La Orotava,33899.642857142855
+2021,La Victoria de Acentejo,28401.714285714286
+2021,Los Llanos de Aridane,32856.0
+2021,Los Realejos,31596.2
+2021,Los Silos,30899.0
+2021,Puerto de La Cruz,31136.2
+2021,Puntagorda,26374.0
+2021,Puntallana,36131.0
+2021,San Andrés y Sauces,36239.75
+2021,San Cristóbal de La Laguna,38703.12962962963
+2021,San Juan de la Rambla,29888.5
+2021,San Miguel de Abona,31213.0
+2021,San Sebastián de La Gomera,38588.333333333336
+2021,Santa Cruz de La Palma,40022.166666666664
+2021,Santa Cruz de Tenerife,40171.40853658537
+2021,Santa Úrsula,32274.88888888889
+2021,Santiago del Teide,28509.75
+2021,Tacoronte,39896.13333333333
+2021,Tazacorte,26762.75
+2021,Tegueste,46630.71428571428
+2021,Tijarafe,31381.0
+2021,Valle Gran Rey,28002.5
+2021,Vallehermoso,23512.0
+2021,Valverde,38148.666666666664
+2021,Vilaflor de Chasna,31356.0
+2021,Villa de Mazo,34650.6
+2022,Adeje,35668.27777777778
+2022,Agulo,32876.0
+2022,Alajeró,35225.0
+2022,Arafo,39683.0
+2022,Arico,31360.666666666668
+2022,Arona,30874.91176470588
+2022,Barlovento,31402.0
+2022,Breña Alta,40628.25
+2022,Breña Baja,46247.25
+2022,Buenavista del Norte,31395.25
+2022,Candelaria,43114.23529411765
+2022,El Paso,38769.4
+2022,El Pinar de El Hierro,33662.0
+2022,El Rosario,53391.07692307692
+2022,El Sauzal,41816.5
+2022,El Tanque,31767.5
+2022,Fasnia,34222.0
+2022,Frontera,35086.0
+2022,Fuencaliente de La Palma,28974.0
+2022,Garachico,36717.25
+2022,Garafía,21188.0
+2022,Granadilla de Abona,35388.37037037037
+2022,Guía de Isora,33866.2
+2022,Güímar,37055.5
+2022,Hermigua,34005.5
+2022,Icod de los Vinos,31406.444444444445
+2022,La Guancha,33904.666666666664
+2022,La Matanza de Acentejo,37094.4
+2022,La Orotava,36961.75
+2022,La Victoria de Acentejo,30605.285714285714
+2022,Los Llanos de Aridane,36222.92307692308
+2022,Los Realejos,34436.28
+2022,Los Silos,33256.5
+2022,Puerto de La Cruz,33739.8
+2022,Puntagorda,27906.5
+2022,Puntallana,39778.5
+2022,San Andrés y Sauces,38099.75
+2022,San Cristóbal de La Laguna,40981.72566371682
+2022,San Juan de la Rambla,32446.75
+2022,San Miguel de Abona,36309.444444444445
+2022,San Sebastián de La Gomera,41775.142857142855
+2022,Santa Cruz de La Palma,43650.416666666664
+2022,Santa Cruz de Tenerife,43512.181818181816
+2022,Santa Úrsula,34897.333333333336
+2022,Santiago del Teide,32243.5
+2022,Tacoronte,42091.2
+2022,Tazacorte,30211.0
+2022,Tegueste,50084.28571428572
+2022,Tijarafe,32321.0
+2022,Valle Gran Rey,30250.0
+2022,Vallehermoso,25372.0
+2022,Valverde,39837.666666666664
+2022,Vilaflor de Chasna,34019.0
+2022,Villa de Mazo,37389.4
+2023,Adeje,41326.944444444445
+2023,Agulo,37568.0
+2023,Alajeró,39053.0
+2023,Arafo,43098.333333333336
+2023,Arico,34507.5
+2023,Arona,35282.794117647056
+2023,Barlovento,35588.0
+2023,Breña Alta,45037.25
+2023,Breña Baja,50124.75
+2023,Buenavista del Norte,33992.25
+2023,Candelaria,48090.117647058825
+2023,El Paso,43649.8
+2023,El Pinar de El Hierro,38412.0
+2023,El Rosario,57658.53846153846
+2023,El Sauzal,47015.333333333336
+2023,El Tanque,34757.5
+2023,Fasnia,37005.5
+2023,Frontera,39505.0
+2023,Fuencaliente de La Palma,30975.0
+2023,Garachico,37992.75
+2023,Garafía,26264.0
+2023,Granadilla de Abona,39758.18518518518
+2023,Guía de Isora,38322.8
+2023,Güímar,40596.25
+2023,Hermigua,38280.0
+2023,Icod de los Vinos,34641.833333333336
+2023,La Guancha,36850.0
+2023,La Matanza de Acentejo,40371.0
+2023,La Orotava,40166.42857142857
+2023,La Victoria de Acentejo,33252.857142857145
+2023,Los Llanos de Aridane,39712.307692307695
+2023,Los Realejos,38026.76
+2023,Los Silos,35155.75
+2023,Puerto de La Cruz,37094.75
+2023,Puntagorda,33876.0
+2023,Puntallana,42567.5
+2023,San Andrés y Sauces,41572.0
+2023,San Cristóbal de La Laguna,44551.18584070796
+2023,San Juan de la Rambla,35743.25
+2023,San Miguel de Abona,40842.555555555555
+2023,San Sebastián de La Gomera,46862.57142857143
+2023,Santa Cruz de La Palma,45939.083333333336
+2023,Santa Cruz de Tenerife,47715.35151515152
+2023,Santa Úrsula,38356.0
+2023,Santiago del Teide,37720.0
+2023,Tacoronte,46271.666666666664
+2023,Tazacorte,33356.75
+2023,Tegueste,53861.42857142857
+2023,Tijarafe,37037.5
+2023,Valle Gran Rey,35839.0
+2023,Vallehermoso,29763.0
+2023,Valverde,44751.0
+2023,Vilaflor de Chasna,38042.0
+2023,Villa de Mazo,40622.8
