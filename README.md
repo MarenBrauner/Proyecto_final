@@ -54,7 +54,7 @@
 <img width="3000" height="1800" alt="05_scatter_causalidad_laboral" src="https://github.com/user-attachments/assets/5a5e7b5d-8a49-4675-8716-53942a907af4" />
 - Relación entre volumen de empleo en el sector servicios y las ocupaciones elementales o de nivel más bajo
 - Cada nuevo puesto de trabajo creado en el sector servicios en Tenerife lleva aparejada una nueva plaza en una ocupación
-elemental o de baja cualicación
+elemental o de baja cualificación
 
 <img width="3000" height="1800" alt="06_densidad_renta_comparativa" src="https://github.com/user-attachments/assets/141c2940-f61c-4765-b082-2c1566e1d555" />
 - Una fracción ha incrementado su renta
