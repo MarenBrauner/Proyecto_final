@@ -35,11 +35,13 @@
 - Eliminar fondos/rejillas no necesarias
 
  <img width="3600" height="2100" alt="01_evolucion_islas_2x2" src="https://github.com/user-attachments/assets/9e7ee0af-bdae-4fbb-8e3c-7f5e15d5e148" />
+ 
 - Hay una recuperación económica después de la pandemia
 - Incrementación de los ingresos por salarios y disminución de ingresos por desempleo
 
 <img width="2700" height="1800" alt="02_mapa_coropletas_renta_2023" src="https://github.com/user-attachments/assets/1bf28536-286e-4016-9371-d66873e26ed0" />
 <img width="3300" height="1800" alt="02b_mapa_renta_tenerife_aislado" src="https://github.com/user-attachments/assets/7d40dff9-9922-46b0-b952-f7eba683e131" />
+
 - Zonas de rentas más altas: urbanas o turísticas
 - Desigualdad, desconexión espacial
 
