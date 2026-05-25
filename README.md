@@ -2,8 +2,8 @@
 
 ## Objetivo
 - Investigar los efectos del modelo económico adoptado en la provincia de Santa Cruz de Tenerife
-- Empezando por el contexto macroeconómico en la provincia hasta poner la isla de Tenerife en el foco
 - Existe una distribución homogénea de la riqueza en la isla?
+- Empezando por el contexto macroeconómico en la provincia hasta poner la isla de Tenerife en el foco
 - Punto de partida: Prácticas anteriores 
 
 ## Configuración y DataOps
