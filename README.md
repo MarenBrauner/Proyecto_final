@@ -44,23 +44,27 @@
 - Desigualdad, desconexión espacial
 
 <img width="3900" height="3000" alt="03b_mapas_especializacion_facetados" src="https://github.com/user-attachments/assets/96b83ab1-279b-4c7f-b999-870557d1a3fd" />
+
 - El sector mayoritario es el sector del servicio
 - Existe un **monocultivo** sectorial
 
 <img width="3300" height="1800" alt="04_boxplot_renta_municipal" src="https://github.com/user-attachments/assets/3147a750-df9f-4eed-b38f-393984cc701e" />
+
 - La brecha interna es grande en las zonas urbanas
 - En las zonas turísticas también hay outliers
 
 <img width="3000" height="1800" alt="05_scatter_causalidad_laboral" src="https://github.com/user-attachments/assets/5a5e7b5d-8a49-4675-8716-53942a907af4" />
+
 - Relación entre volumen de empleo en el sector servicios y las ocupaciones elementales o de nivel más bajo
 - Cada nuevo puesto de trabajo creado en el sector servicios en Tenerife lleva aparejada una nueva plaza en una ocupación
 elemental o de baja cualificación
 
 <img width="3000" height="1800" alt="06_densidad_renta_comparativa" src="https://github.com/user-attachments/assets/141c2940-f61c-4765-b082-2c1566e1d555" />
+
 - Una fracción ha incrementado su renta
 - La masa principal de la población permanece anclada en la franja baja
 
-- La recuperación post-pandemia ha consolidado una estructura social donde la mejora es un fenómeno de unos pocos,
+La recuperación post-pandemia ha consolidado una estructura social donde la mejora es un fenómeno de unos pocos,
 mientras que la mayoría social permanece en niveles económicos bajos
 
 
