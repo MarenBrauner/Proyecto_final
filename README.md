@@ -9,7 +9,6 @@
 ## Configuración y DataOps
 - Procedimiento idéntico al de las prácticas anteriores
 - proyecto.py contiene el código del pipeline orquestado por Dagster que contiene los assets y checks
- (no se han implementado sensores)
 - Un notebook auxiliar para la exploración de los datos
 - Uso de la IA en la capa de visualización para generar el código de plotnine, respetando la gramática de gráficos
 
