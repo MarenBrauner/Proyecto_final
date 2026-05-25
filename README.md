@@ -58,7 +58,7 @@ elemental o de baja cualificación
 
 <img width="3000" height="1800" alt="06_densidad_renta_comparativa" src="https://github.com/user-attachments/assets/141c2940-f61c-4765-b082-2c1566e1d555" />
 - Una fracción ha incrementado su renta
-- La masa principal de la poblacion permanece anclada en la franja baja
+- La masa principal de la población permanece anclada en la franja baja
 
 - La recuperación post-pandemia ha consolidado una estructura social donde la mejora es un fenómeno de unos pocos,
 mientras que la mayoría social permanece en niveles económicos bajos
