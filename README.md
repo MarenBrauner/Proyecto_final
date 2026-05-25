@@ -20,7 +20,7 @@
 - Cuatro conjuntos de datos: distribución de la renta según la fuente de ingresos, renta media y mediana, ocupación
   (nivel del puesto) y actividad (sector del empleo) por secciones de los años 2021-2023
 - Eliminación de columnas redundantes, renombrar columnas, comprobar y cambiar el tipo y formato de los datos
-- Eliminar la dimensión de sexo sumando los valores de hombres y mujeres
+- Eliminar la dimensión de género sumando los valores de hombres y mujeres
 - **Comprobación de valores nulos**: Imputar para preservar la continuidad visual (Principio de Gestalt)
 - Los **checks** implementados sirven para comprobar la calidad de los datos antes de visualizarlos
   - Continuidad (--> valores nulos)
